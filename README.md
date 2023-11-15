@@ -3,3 +3,5 @@ Decimal units such as kilobyte (KB), megabyte (MB), and gigabyte (GB) are common
 
 ![Test](https://github.com/ramsnerm/StorageDataSize_UnitConversion/blob/main/Screenshot.jpg)
 
+#License
+See LICENSE file.
